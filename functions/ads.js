@@ -14,7 +14,7 @@ export const ads = [
         image: "/images/imagem2.jpg",
         url: "https://cliente2.com",
         weight: 1,
-        priority: 2,
+        priority: 1,
         active: true,
         startDate: "2026-01-01",
         endDate: "2026-06-30"
